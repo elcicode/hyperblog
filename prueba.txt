@@ -1,0 +1,1 @@
+Cree este archivo para probar el comando de git, git rm --cached y git rm --force
